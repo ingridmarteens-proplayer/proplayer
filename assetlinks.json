@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.palco_player_songbook_pro.twa",
+        "sha256_cert_fingerprints": ["0E:97:06:28:EC:02:91:63:95:A7:39:6E:99:65:A8:8E:D0:75:86:63:5D:8F:3E:CE:2B:6F:B6:D8:6C:A8:AF:D7"]
+      }
+    }]
